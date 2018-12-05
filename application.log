@@ -1,0 +1,462 @@
+2018-12-02 19:31:13 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 19:31:13 INFO  newDVLATestfeature:170 - Got list of fils
+2018-12-02 19:31:19 INFO  newDVLATestfeature:186 - Finish start now 
+2018-12-02 19:37:52 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 19:37:52 INFO  newDVLATestfeature:170 - Got list of files
+2018-12-02 19:37:52 INFO  newDVLATestfeature:172 - Read the files
+2018-12-02 19:37:58 INFO  newDVLATestfeature:189 - Finish start now 
+2018-12-02 19:43:03 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 19:43:03 INFO  newDVLATestfeature:170 - Got list of files
+2018-12-02 19:43:03 INFO  newDVLATestfeature:172 - Read the files
+2018-12-02 19:43:07 INFO  newDVLATestfeature:189 - Finish start now 
+2018-12-02 19:47:08 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 19:47:08 INFO  newDVLATestfeature:170 - Got list of files
+2018-12-02 19:47:08 INFO  newDVLATestfeature:172 - Read the files
+2018-12-02 19:47:13 INFO  newDVLATestfeature:189 - Finish start now 
+2018-12-02 19:47:13 INFO  newDVLATestfeature:196 - At view page 
+2018-12-02 19:47:16 INFO  newDVLATestfeature:205 - in View pageGV12 CYZ
+2018-12-02 19:47:16 INFO  newDVLATestfeature:207 - Contiue button clicked in view page
+2018-12-02 19:50:46 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 19:50:46 INFO  newDVLATestfeature:170 - Got list of files
+2018-12-02 19:50:46 INFO  newDVLATestfeature:172 - Read the files
+2018-12-02 19:50:51 INFO  newDVLATestfeature:189 - Finish start now 
+2018-12-02 19:50:51 INFO  newDVLATestfeature:196 - At view page 
+2018-12-02 19:50:53 INFO  newDVLATestfeature:205 - in View pageGV12 CYZ
+2018-12-02 19:50:54 INFO  newDVLATestfeature:208 - Contiue button clicked in view page
+2018-12-02 19:56:30 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 19:56:30 INFO  newDVLATestfeature:170 - Got list of files
+2018-12-02 19:56:30 INFO  newDVLATestfeature:172 - Read the files
+2018-12-02 19:56:35 INFO  newDVLATestfeature:189 - Finish start now 
+2018-12-02 19:56:35 INFO  newDVLATestfeature:196 - At view page 
+2018-12-02 19:56:39 INFO  newDVLATestfeature:205 - in View pageGV12 CYZ
+2018-12-02 19:56:39 INFO  newDVLATestfeature:208 - Contiue button clicked in view page
+2018-12-02 19:59:35 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 19:59:35 INFO  newDVLATestfeature:170 - Got list of files
+2018-12-02 19:59:35 INFO  newDVLATestfeature:172 - Read the files
+2018-12-02 19:59:41 INFO  newDVLATestfeature:189 - Finish start now 
+2018-12-02 19:59:41 INFO  newDVLATestfeature:196 - At view page 
+2018-12-02 19:59:47 INFO  newDVLATestfeature:205 - in View pageGV12 CYZ
+2018-12-02 19:59:47 INFO  newDVLATestfeature:208 - Contiue button clicked in view page
+2018-12-02 20:19:16 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 20:19:16 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 20:19:16 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 20:19:24 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 20:19:24 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 20:19:35 INFO  newDVLATestfeature:210 - in View pageGV12 CYZ
+2018-12-02 20:19:36 INFO  newDVLATestfeature:213 - Contiue button clicked in view page
+2018-12-02 20:36:47 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 20:36:47 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 20:36:47 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 20:36:54 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 20:36:54 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 20:36:59 INFO  newDVLATestfeature:210 - in View pageGV12 CYZ
+2018-12-02 20:36:59 INFO  newDVLATestfeature:213 - Contiue button clicked in view page
+2018-12-02 20:48:58 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 20:48:58 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 20:48:58 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 20:49:08 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 20:49:08 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 20:49:10 INFO  newDVLATestfeature:210 - in View pageGV12 CYZ
+2018-12-02 20:49:11 INFO  newDVLATestfeature:213 - Contiue button clicked in view page
+2018-12-02 20:53:39 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 20:53:39 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 20:53:39 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 20:53:46 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 20:53:46 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 20:53:49 INFO  newDVLATestfeature:210 - in View pageGV12 CYZ
+2018-12-02 20:53:50 INFO  newDVLATestfeature:213 - Contiue button clicked in view page
+2018-12-02 21:10:19 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 21:10:19 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 21:10:19 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 21:10:27 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 21:10:27 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 21:10:32 INFO  newDVLATestfeature:210 - in View pageGV12 CYZ
+2018-12-02 21:10:32 INFO  newDVLATestfeature:213 - Contiue button clicked in view page
+2018-12-02 21:18:13 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 21:18:13 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 21:18:13 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 21:18:22 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 21:19:10 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 21:19:10 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 21:19:10 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 21:19:17 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 21:19:17 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 21:19:18 INFO  newDVLATestfeature:210 - in View pageGV12 CYZ
+2018-12-02 21:19:19 INFO  newDVLATestfeature:213 - Contiue button clicked in view page
+2018-12-02 21:21:52 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 21:21:52 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 21:21:52 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 21:21:57 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 21:21:57 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 21:22:01 INFO  newDVLATestfeature:210 - in View pageGV12 CYZ
+2018-12-02 21:22:02 INFO  newDVLATestfeature:213 - Contiue button clicked in view page
+2018-12-02 21:24:43 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 21:24:43 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 21:24:43 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 21:24:48 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 21:24:48 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 21:24:54 INFO  newDVLATestfeature:210 - in View page1GV12 CYZ
+2018-12-02 21:24:55 INFO  newDVLATestfeature:213 - Contiue button clicked in view page
+2018-12-02 21:37:50 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 21:37:50 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 21:37:50 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 21:37:59 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 21:37:59 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 21:38:05 INFO  newDVLATestfeature:243 - Car no entered and continue button click in view page
+2018-12-02 21:59:45 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 21:59:45 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 21:59:45 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 21:59:50 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 21:59:50 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 21:59:55 INFO  newDVLATestfeature:250 - Car no entered and continue button click in view page
+2018-12-02 22:00:05 INFO  newDVLATestfeature:219 - in Confirm Vehicle page1[]
+2018-12-02 22:06:21 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 22:06:21 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 22:06:21 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 22:06:26 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 22:06:26 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 22:06:29 INFO  newDVLATestfeature:250 - Car no entered and continue button click in view page
+2018-12-02 22:07:43 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 22:07:43 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 22:07:43 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 22:07:49 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 22:07:49 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 22:07:53 INFO  newDVLATestfeature:250 - Car no entered and continue button click in view page
+2018-12-02 22:10:06 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 22:10:06 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 22:10:06 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 22:10:10 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 22:10:10 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 22:10:15 INFO  newDVLATestfeature:250 - Car no entered and continue button click in view page
+2018-12-02 22:10:45 INFO  newDVLATestfeature:219 - in Confirm Vehicle page1[]
+2018-12-02 22:17:24 INFO  FileService:70 - **Mime type:text/csv
+2018-12-02 22:17:24 INFO  newDVLATestfeature:175 - Got list of files
+2018-12-02 22:17:24 INFO  newDVLATestfeature:177 - Read the files
+2018-12-02 22:17:29 INFO  newDVLATestfeature:194 - Finish start now 
+2018-12-02 22:17:29 INFO  newDVLATestfeature:201 - At view page 
+2018-12-02 22:17:32 INFO  newDVLATestfeature:252 - Car no entered and continue button click in view page
+2018-12-03 13:14:06 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 13:21:19 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 13:23:29 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 13:46:22 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 13:50:28 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 14:24:11 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 14:31:13 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 14:32:35 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 14:34:02 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 14:43:14 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 14:45:21 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 14:51:45 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 18:07:38 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 18:09:41 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 18:19:38 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 18:21:09 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 18:23:11 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 18:24:30 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 18:25:38 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 18:28:46 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 19:06:01 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 19:26:52 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 19:28:28 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 19:35:21 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 19:44:58 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 19:53:59 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 19:55:22 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 19:58:07 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 19:59:04 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 21:33:48 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 21:33:48 INFO  newDVLATestfeature:75 - File has been read
+2018-12-03 21:52:53 INFO  FileService:70 - **Mime type:text/csv
+2018-12-03 21:52:53 INFO  newDVLATestfeature:73 - File has been read
+2018-12-03 22:38:24 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 06:41:41 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 06:41:44 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 06:41:44 INFO  newDVLATestfeature:72 - File has been read
+2018-12-04 15:44:58 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 15:45:01 INFO  newDVLATestfeature:56 - browser starting
+2018-12-04 15:45:01 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 15:45:01 INFO  newDVLATestfeature:73 - File has been read
+2018-12-04 15:45:02 INFO  newDVLATestfeature:87 - startNow button click in first page
+2018-12-04 15:45:06 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 15:45:07 INFO  newDVLATestfeature:125 - in confirm page
+2018-12-04 15:45:07 INFO  newDVLATestfeature:132 - output list created to put into hasmap
+2018-12-04 15:45:07 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 15:45:08 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 15:45:08 INFO  newDVLATestfeature:125 - in confirm page
+2018-12-04 15:45:08 INFO  newDVLATestfeature:132 - output list created to put into hasmap
+2018-12-04 15:45:08 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 15:45:09 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 15:45:09 INFO  newDVLATestfeature:125 - in confirm page
+2018-12-04 15:45:09 INFO  newDVLATestfeature:132 - output list created to put into hasmap
+2018-12-04 15:45:09 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 15:45:10 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 15:45:10 INFO  newDVLATestfeature:125 - in confirm page
+2018-12-04 15:45:10 INFO  newDVLATestfeature:132 - output list created to put into hasmap
+2018-12-04 15:45:11 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 15:45:12 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 15:45:15 INFO  newDVLATestfeature:125 - in confirm page
+2018-12-04 15:45:15 INFO  newDVLATestfeature:132 - output list created to put into hasmap
+2018-12-04 15:45:15 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 19:12:36 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 19:12:39 INFO  newDVLATestfeature:56 - browser starting
+2018-12-04 19:12:39 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 19:12:39 INFO  newDVLATestfeature:73 - File has been read
+2018-12-04 19:12:42 INFO  newDVLATestfeature:87 - startNow button click in first page
+2018-12-04 19:12:50 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:12:50 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:12:51 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:12:52 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:12:52 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:12:54 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:12:55 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:12:55 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:12:56 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:12:56 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:12:56 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:12:56 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:12:57 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:12:57 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:12:57 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:12:57 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:12:58 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:12:58 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:12:58 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:12:59 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:15:20 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 19:15:23 INFO  newDVLATestfeature:56 - browser starting
+2018-12-04 19:15:23 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 19:15:23 INFO  newDVLATestfeature:73 - File has been read
+2018-12-04 19:15:24 INFO  newDVLATestfeature:87 - startNow button click in first page
+2018-12-04 19:15:28 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:15:28 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:15:29 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:15:29 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:15:29 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:15:29 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:15:30 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:15:30 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:15:30 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:15:30 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:15:31 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:15:32 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:15:32 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:15:33 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:15:34 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:15:34 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:15:34 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:15:35 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:15:35 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:15:35 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:17:49 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 19:17:52 INFO  newDVLATestfeature:56 - browser starting
+2018-12-04 19:17:53 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 19:17:53 INFO  newDVLATestfeature:73 - File has been read
+2018-12-04 19:17:54 INFO  newDVLATestfeature:87 - startNow button click in first page
+2018-12-04 19:17:57 INFO  newDVLATestfeature:98 - in view page
+2018-12-04 19:17:58 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:17:58 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:17:58 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:17:59 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:17:59 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:17:59 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:17:59 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:18:00 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:18:00 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:18:00 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:18:00 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:18:01 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:18:01 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:18:04 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:18:04 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:18:05 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:18:06 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:18:06 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:18:06 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:18:06 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:25:22 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 19:25:25 INFO  newDVLATestfeature:56 - browser starting
+2018-12-04 19:25:26 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 19:25:26 INFO  newDVLATestfeature:73 - File has been read
+2018-12-04 19:25:27 INFO  newDVLATestfeature:87 - startNow button click in first page
+2018-12-04 19:25:28 INFO  newDVLATestfeature:98 - in view page
+2018-12-04 19:25:28 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:25:29 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:25:29 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:25:29 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:25:30 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:25:30 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:25:30 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:25:30 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:25:30 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:25:30 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:25:31 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:25:31 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:25:31 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:25:31 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:25:32 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:25:32 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 19:25:32 INFO  newDVLATestfeature:155 - in view page
+2018-12-04 19:25:32 INFO  newDVLATestfeature:127 - in confirm page
+2018-12-04 19:25:33 INFO  newDVLATestfeature:134 - output list created to put into hashmap
+2018-12-04 19:25:33 INFO  newDVLATestfeature:144 - in view page again
+2018-12-04 20:15:52 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 20:15:56 INFO  newDVLATestfeature:55 - browser starting
+2018-12-04 20:15:56 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 20:15:56 INFO  newDVLATestfeature:72 - File has been read
+2018-12-04 20:15:57 INFO  newDVLATestfeature:83 - startNow button click in first page
+2018-12-04 20:16:01 INFO  newDVLATestfeature:93 - in view page
+2018-12-04 20:16:02 INFO  newDVLATestfeature:148 - in view page
+2018-12-04 20:16:02 INFO  newDVLATestfeature:121 - in confirm page
+2018-12-04 20:16:02 INFO  newDVLATestfeature:127 - output list created to put into hashmap
+2018-12-04 20:16:03 INFO  newDVLATestfeature:137 - in view page again
+2018-12-04 20:16:03 INFO  newDVLATestfeature:148 - in view page
+2018-12-04 20:16:04 INFO  newDVLATestfeature:121 - in confirm page
+2018-12-04 20:16:04 INFO  newDVLATestfeature:127 - output list created to put into hashmap
+2018-12-04 20:16:04 INFO  newDVLATestfeature:137 - in view page again
+2018-12-04 20:16:05 INFO  newDVLATestfeature:148 - in view page
+2018-12-04 20:16:05 INFO  newDVLATestfeature:121 - in confirm page
+2018-12-04 20:16:05 INFO  newDVLATestfeature:127 - output list created to put into hashmap
+2018-12-04 20:16:07 INFO  newDVLATestfeature:137 - in view page again
+2018-12-04 20:16:07 INFO  newDVLATestfeature:148 - in view page
+2018-12-04 20:16:08 INFO  newDVLATestfeature:121 - in confirm page
+2018-12-04 20:16:08 INFO  newDVLATestfeature:127 - output list created to put into hashmap
+2018-12-04 20:16:08 INFO  newDVLATestfeature:137 - in view page again
+2018-12-04 20:16:09 INFO  newDVLATestfeature:148 - in view page
+2018-12-04 20:16:09 INFO  newDVLATestfeature:121 - in confirm page
+2018-12-04 20:16:09 INFO  newDVLATestfeature:127 - output list created to put into hashmap
+2018-12-04 20:16:10 INFO  newDVLATestfeature:137 - in view page again
+2018-12-04 20:38:43 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 20:38:47 INFO  newDVLATestfeature:60 - browser starting
+2018-12-04 20:38:47 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 20:38:47 INFO  newDVLATestfeature:77 - File has been read
+2018-12-04 20:38:48 INFO  newDVLATestfeature:88 - startNow button click in first page
+2018-12-04 20:38:54 INFO  newDVLATestfeature:98 - in view page
+2018-12-04 20:38:54 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 20:38:54 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:38:55 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:38:55 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:38:55 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 20:38:56 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:38:56 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:38:56 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:38:57 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 20:38:57 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:38:57 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:38:58 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:38:58 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 20:38:59 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:38:59 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:39:01 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:39:02 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 20:39:02 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:39:02 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:39:02 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:43:35 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 20:43:38 INFO  newDVLATestfeature:60 - browser starting
+2018-12-04 20:43:39 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 20:43:39 INFO  newDVLATestfeature:77 - File has been read
+2018-12-04 20:43:40 INFO  newDVLATestfeature:88 - startNow button click in first page
+2018-12-04 20:43:45 INFO  newDVLATestfeature:98 - in view page
+2018-12-04 20:43:46 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 20:43:46 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:43:46 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:43:47 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:43:47 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 20:43:47 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:43:47 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:43:48 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:43:48 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 20:43:48 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:43:48 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:43:50 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:43:50 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 20:43:51 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:43:51 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:43:51 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:43:52 INFO  newDVLATestfeature:153 - in view page
+2018-12-04 20:43:52 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:43:52 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:43:53 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:48:30 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 20:48:33 INFO  newDVLATestfeature:60 - browser starting
+2018-12-04 20:48:34 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 20:48:34 INFO  newDVLATestfeature:77 - File has been read
+2018-12-04 20:48:35 INFO  newDVLATestfeature:88 - startNow button click in first page
+2018-12-04 20:48:36 INFO  newDVLATestfeature:98 - in view page
+2018-12-04 20:48:37 INFO  newDVLATestfeature:154 - in view page
+2018-12-04 20:48:37 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:48:38 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:48:38 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:48:39 INFO  newDVLATestfeature:154 - in view page
+2018-12-04 20:48:39 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:48:39 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:48:40 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:48:40 INFO  newDVLATestfeature:154 - in view page
+2018-12-04 20:48:40 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:48:41 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:48:41 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:48:42 INFO  newDVLATestfeature:154 - in view page
+2018-12-04 20:48:42 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:48:42 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:48:42 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:48:43 INFO  newDVLATestfeature:154 - in view page
+2018-12-04 20:48:43 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:48:43 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:48:44 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:51:36 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 20:51:40 INFO  newDVLATestfeature:60 - browser starting
+2018-12-04 20:51:40 INFO  FileService:70 - **Mime type:text/csv
+2018-12-04 20:51:40 INFO  newDVLATestfeature:77 - File has been read
+2018-12-04 20:51:41 INFO  newDVLATestfeature:88 - startNow button click in first page
+2018-12-04 20:51:44 INFO  newDVLATestfeature:98 - in view page
+2018-12-04 20:51:46 INFO  newDVLATestfeature:154 - in view page
+2018-12-04 20:51:46 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:51:46 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:51:46 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:51:47 INFO  newDVLATestfeature:154 - in view page
+2018-12-04 20:51:47 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:51:48 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:51:48 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:51:49 INFO  newDVLATestfeature:154 - in view page
+2018-12-04 20:51:49 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:51:49 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:51:50 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:51:50 INFO  newDVLATestfeature:154 - in view page
+2018-12-04 20:51:52 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:51:53 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:51:53 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 20:51:54 INFO  newDVLATestfeature:154 - in view page
+2018-12-04 20:51:54 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 20:51:54 INFO  newDVLATestfeature:132 - output list created to put into hashmap
+2018-12-04 20:51:57 INFO  newDVLATestfeature:142 - in view page again
+2018-12-04 21:26:53 INFO  FileService:65 - **Mime type:text/csv
+2018-12-04 21:26:56 INFO  newDVLATestfeature:59 - browser starting
+2018-12-04 21:26:56 INFO  FileService:65 - **Mime type:text/csv
+2018-12-04 21:26:56 INFO  newDVLATestfeature:76 - File has been read
+2018-12-04 21:26:58 INFO  newDVLATestfeature:86 - startNow button click in first page
+2018-12-04 21:27:01 INFO  newDVLATestfeature:97 - in view page
+2018-12-04 21:27:02 INFO  newDVLATestfeature:150 - in view page
+2018-12-04 21:27:02 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 21:27:02 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2018-12-04 21:27:03 INFO  newDVLATestfeature:139 - in view page again
+2018-12-04 21:27:03 INFO  newDVLATestfeature:150 - in view page
+2018-12-04 21:27:03 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 21:27:04 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2018-12-04 21:27:04 INFO  newDVLATestfeature:139 - in view page again
+2018-12-04 21:27:05 INFO  newDVLATestfeature:150 - in view page
+2018-12-04 21:27:06 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 21:27:06 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2018-12-04 21:27:10 INFO  newDVLATestfeature:139 - in view page again
+2018-12-04 21:27:10 INFO  newDVLATestfeature:150 - in view page
+2018-12-04 21:27:10 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 21:27:11 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2018-12-04 21:27:11 INFO  newDVLATestfeature:139 - in view page again
+2018-12-04 21:27:12 INFO  newDVLATestfeature:150 - in view page
+2018-12-04 21:27:14 INFO  newDVLATestfeature:126 - in confirm page
+2018-12-04 21:27:14 INFO  newDVLATestfeature:130 - output list created to put into hashmap
+2018-12-04 21:27:15 INFO  newDVLATestfeature:139 - in view page again
+2018-12-05 11:46:38 INFO  FileService:65 - **Mime type:text/csv
+2018-12-05 11:46:43 INFO  newDVLATestfeature:59 - browser starting
+2018-12-05 11:46:43 INFO  FileService:65 - **Mime type:text/csv
+2018-12-05 11:46:43 INFO  newDVLATestfeature:76 - File has been read
+2018-12-05 11:46:44 INFO  newDVLATestfeature:86 - startNow button click in first page

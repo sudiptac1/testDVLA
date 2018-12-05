@@ -1,0 +1,4 @@
+com/test/testDVLAProject/constant/DVLAConstant.class
+com/test/testDVLAProject/domain/FileInfo.class
+com/test/testDVLAProject/service/IFileService.class
+com/test/testDVLAProject/service/FileService.class
